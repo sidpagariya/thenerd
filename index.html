@@ -32,7 +32,11 @@
 
     function newTyped(){ /* A new typed object */ }
 
-    function foo(){ console.log("Callback"); }
+    function foo()
+    {
+        document.getElementById('world').click()
+        console.log("Done with proposal!");
+    }
 
     </script>
     <link href="main.css" rel="stylesheet"/>
