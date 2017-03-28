@@ -1,2 +1,2 @@
-# thenerd
-Prom 2017
+# TheNerd
+Prom 2017 the *Nerd* way.
